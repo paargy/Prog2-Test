@@ -1,2 +1,2 @@
 # Prog2
-Programming project repository
+Programming test project repository
